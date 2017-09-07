@@ -1,0 +1,2 @@
+GETFEM_PREFIX=$(mkGetfemInc)/../
+
